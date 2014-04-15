@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>
+        <lang name="default">LS ways</lang>
+        <lang name="russian">Маршруты</lang>
+    </name>
+    <author>
+        <lang name="default">author</lang>
+        <lang name="russian">Артем tema_mak Маковецкий</lang>
+    </author>
+    <homepage>http://livestreet.ru</homepage>
+    <version>0.0.1</version>
+    <requires>
+        <livestreet>1.0.1</livestreet>
+        <plugins>
+        </plugins>
+    </requires>
+    <description>
+        <lang name="default">---</lang>
+        <lang name="russian">Работа с картами и маршрутами в LS</lang>
+    </description>
+</plugin>
